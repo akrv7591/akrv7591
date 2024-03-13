@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Abubak and I am fullstack web developer
 
-[![Abubakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrv7591)](https://github.com/anuraghazra/github-readme-stats)
+[![Abubakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrv7591&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
